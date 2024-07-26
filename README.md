@@ -1,34 +1,60 @@
-## Olá! Eu sou Carlos Vasconcelos
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning TypeScript
+## Carlos Vasconcelos
 
-<div align="center">
-  <a href="https://github.com/carloswvas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloswvas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloswvas&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+My name is Carlos. I'm a web developer since 2014. I have experience with JAVASCRIPT/TYPESCRIPT.
+
+I also have experience with MySQL, PostgreSQL and MongoDB databases.
+
+I have worked with the Express/fastify (Node.js) also with the BootStrap and React JS libraries.
+
+<div aling="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloswvas&theme=dark&show_icons=true&text_color=FFF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloswvas&layout=compact&theme=dark&text_color=FFF">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+Know more about me and my work!
 
-##
+<a href="https://twitter.com/carloswvas_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloswvas)
 
-<div> 
-  <a href="https://twitter.com/carloswvas_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/carloswvas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carlosvasconcelos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  
-![Snake animation](https://github.com/carloswvas/carloswvas/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+### Education
 
-<!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-<!-- <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+:mortar_board: Graduating in Computer Science from the UNINASSAU.
+
+:mortar_board: Postgraduate in computer network security from the Estácio.
+
+### Work Experience
+
+|:bust_in_silhouette: Technology teacher         |:office: SENAI-AL |:calendar: May 2019 - current         |
+|------------------------------------------------|-----------------------------------------------|--------------------------------------|
+|:bust_in_silhouette: Web Developer          |:office: Freelance          |:calendar: January 2014 - current|
+
+
+### Skills
+
+I've worked with the following technologies:
+
+#### Markup Languages and Stylesheets
+
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Libraries and Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
