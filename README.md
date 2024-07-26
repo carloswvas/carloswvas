@@ -7,8 +7,8 @@ I also have experience with MySQL, PostgreSQL and MongoDB databases.
 I have worked with the Express/fastify (Node.js) also with the BootStrap and React JS libraries.
 
 <div aling="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloswvas&theme=dark&show_icons=true&text_color=FFF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloswvas&layout=compact&theme=dark&text_color=FFF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloswvas&theme=github_dark&show_icons=true&text_color=FFF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloswvas&layout=compact&theme=github_dark&text_color=FFF">
 </div>
 
 Know more about me and my work!
