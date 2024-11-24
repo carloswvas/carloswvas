@@ -24,7 +24,7 @@ Know more about me and my work!
 
 ### Work Experience
 
-|:bust_in_silhouette: Technology teacher         |:office: SENAI-AL |:calendar: May 2019 - current         |
+|:bust_in_silhouette: Technology Teacher         |:office: SENAI-AL |:calendar: May 2019 - current         |
 |------------------------------------------------|-----------------------------------------------|--------------------------------------|
 |:bust_in_silhouette: Web Developer          |:office: Freelance          |:calendar: January 2014 - current|
 
