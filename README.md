@@ -20,7 +20,7 @@ Know more about me and my work!
 
 :mortar_board: Graduating in Computer Science from the UNINASSAU.
 
-:mortar_board: Postgraduate in computer network security from the Estácio.
+:mortar_board: Pos-graduate in computer network security from the Estácio.
 
 ### Work Experience
 
